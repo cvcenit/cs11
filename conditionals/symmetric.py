@@ -1,0 +1,2 @@
+def symmetric(your_drawing, friend_drawing):
+    return (your_drawing == "[" and friend_drawing == "]") or (your_drawing == "{" and friend_drawing == "}") or (your_drawing == "(" and friend_drawing == ")")
