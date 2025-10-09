@@ -1,3 +1,5 @@
+# Made by Prof. Daryll Ko (not mine)
+
 from time import sleep
 
 
